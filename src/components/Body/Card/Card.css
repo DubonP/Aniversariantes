@@ -1,0 +1,26 @@
+.card_home_item{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 380px;
+  height: 450px;
+  padding: 20px 10px;
+  margin: 20px;
+  border:2px solid #3925ac;
+  background-color: aliceblue;
+  border-radius: 1.2rem;
+  text-align: center;
+}
+
+.box_image{
+  width: 180px;
+  height: 250px;
+  border:1px solid #000000;
+  background-color: rgb(41, 109, 168);
+  border-radius: 0.3rem;
+}
+  
+.image_card{
+  height: 100%;
+  width: 100%;
+}
